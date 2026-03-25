@@ -1,0 +1,5 @@
+{
+  "name": "Big Apple - Phoebe's Voice Agent",
+  "description": "A real-time voice agent powered by Gemini Live API to answer questions about Phoebe Moritz's professional background and CV.",
+  "requestFramePermissions": ["microphone"]
+}
